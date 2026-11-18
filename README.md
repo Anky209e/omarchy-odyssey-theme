@@ -23,3 +23,9 @@ mkdir "$theme_dir" &&
 ```
 
 Run `omarchy theme bg next` to continue the journey or `omarchy theme bg-switcher` to select a scene.
+
+## Animated openings
+
+Each chapter has a 4.4-second camera pullback that settles into the matching still wallpaper. Omarchy plays the selected chapter’s intro when switching into Odyssey from another theme, with wallpaper intros and Hyprland animations enabled. Use `omarchy theme bg intro status` to check the intro setting.
+
+The silent clips live in `backgrounds/intros/` and share their filenames, apart from the extension, with the still wallpapers.
