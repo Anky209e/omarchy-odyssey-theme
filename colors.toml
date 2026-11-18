@@ -1,0 +1,36 @@
+mode = "dark"
+
+# The wine-dark sea. Bronze marks the way through it.
+background = "#30202E"
+dark_background = "#241621"
+darker_background = "#1B101A"
+lighter_background = "#453042"
+accent = "#F0BA76"
+selection = "#654250"
+muted = "#BE9EAE"
+
+# Sailcloth in warm light.
+foreground = "#F5DEC2"
+dark_foreground = "#C7A9B0"
+light_foreground = "#E8C9B6"
+bright_foreground = "#FFF1DB"
+
+# Fired clay, Ithacan olive leaf, and salt-green bronze patina.
+red = "#EA9385"
+yellow = "#F0BA76"
+orange = "#ECA16F"
+green = "#BAC887"
+cyan = "#94C8B6"
+blue = "#AAB6E3"
+magenta = "#D8A2C4"
+brown = "#C28D73"
+
+bright_red = "#FFB1A1"
+bright_yellow = "#FFDA9E"
+bright_green = "#D7DF9F"
+bright_cyan = "#B7E6D1"
+bright_blue = "#C8D3FA"
+bright_magenta = "#F2BEDD"
+
+hyprland_active_border = "rgba(e9906bff) rgba(f0ba76ff) 35deg"
+hyprland_inactive_border = "rgba(755064dd)"
